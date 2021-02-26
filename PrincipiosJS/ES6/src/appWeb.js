@@ -1,0 +1,1 @@
+console.log('webPack super complicado config....')

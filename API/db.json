@@ -1,0 +1,24 @@
+{
+    "todos": [
+        {
+            "id": 1,
+            "text": "Tomar o café",
+            "done": true
+        },
+        {
+            "id": 2,
+            "text": "Estudar AWS",
+            "done": true
+        },
+        {
+            "id": 3,
+            "text": "Tomar banho",
+            "done": false
+        },
+        {
+            "id": 4,
+            "text": "Estudar idiomas",
+            "done": true
+        }
+    ]
+} 
